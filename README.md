@@ -1,8 +1,10 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Challenge: My first Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hello, I'm Pumlani
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+Welcome to my first GitHub repository! This repo is a starting point on my journey as a beginner software developer. I’m currently diving into Git and GitHub to get comfortable with version control, and soon, I’ll be exploring HTML, CSS, and JavaScript.
+
+🌱 Beginner Software Developer | 🚀 Excited to Learn & Build my on projects
 
 ---
 
@@ -10,8 +12,8 @@
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🤖 I love problem-solving and building creative projects and using my imaginations to explore
+- 🔥 Looking forward to building my first real-world applications and softwares
 
 ---
 
@@ -36,6 +38,8 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
+- 🔎 Attention to Detail
+- 🧠 Critical Thinking
 
 ---
 
@@ -48,7 +52,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ Personal Portfolio** (Coming Soon!)
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
@@ -66,15 +70,15 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pndololwana)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/phumlani-ndololwana-8b429515b)  
+📧 Email: [pndololwana@gmail.com](mailto:pndololwana@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 "Soccer and outdoor survival videos are my go-to relaxation combo."!
 
 ---
 
